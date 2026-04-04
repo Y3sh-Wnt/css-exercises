@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd-numbered-tags{
+   background-color : lightcoral;
+   font-family : 'Veranda', 'DejaVu Sans', 'sans-serif';
+}
+
+#second-div{
+    color : blue;
+    font-size : 36px;
+}
+
+#fourth-div{
+  background-color : lightgreen;
+  font-size : 24px;
+  font-weight : bold;
+}
+.fontsize-third-tag{
+    font-size : 24px;
+}
